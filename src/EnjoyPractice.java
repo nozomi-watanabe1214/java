@@ -3,8 +3,8 @@ public class EnjoyPractice {
 
 	public static void main(String[] args) {
 		// EnjoyPractice! の出力
-		String abc = "山田";
-		System.out.println(abc + "くん");
+		var a3 = -5*3;
+		System.out.println(a3);
 
 	}
 
