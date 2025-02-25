@@ -3,20 +3,13 @@ public class EnjoyPractice {
 
 	public static void main(String[] args) {
 		// EnjoyPractice! の出力
-		String a = "青";
+		String[]name = {"田中","高橋","斉藤"};
 		
-		switch(a){
-			case "赤":
-				System.out.println("赤組です");
-				break;
-			case "白":
-				System.out.println("白組です");
-				break;
-				default:
-					System.out.println("エラーです");
-		}
+		name[0] = "加藤";
+		
+		System.out.println(name[0]);
+	}
+}
 
-}
-}
 
 	
