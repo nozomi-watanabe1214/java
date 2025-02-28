@@ -8,7 +8,7 @@ public class EnjoyPractice {
 		//System.out.println("<br>");
 		System.out.println("鈴木さん。"+ hello() );
 		//System.out.println("<br>");
-		System.out.println("佐藤さん。" + hello());
+		System.out.println("斉藤さん。" + hello());
 	}
 	public static String hello() {
 		return "こんにちは";
