@@ -6,7 +6,7 @@ public class SetSample {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		Set<String>map = new HashSet<String>();
+		Set<String>set = new HashSet<String>();
 		
 		//値のセットはaddメソッドを利用
 		set.add("value1");
