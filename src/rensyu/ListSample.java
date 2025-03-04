@@ -23,6 +23,11 @@ public class ListSample {
 			//値の取得はgetメソッドを利用
 			System.out.println(list.get(i));
 	}
+		
+		//拡張for文を利用するともっと簡単
+		for(String s:list) {
+			System.out.println(s);
+		}
 
 }
 }
