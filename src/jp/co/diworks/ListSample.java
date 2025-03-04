@@ -16,7 +16,9 @@ public class ListSample {
 		list.add("5");
 		
 		//値の取得
-		
-		
+		for(int i = 0;i < list.size();i++) {
+			//値の取得はgetメソッドを利用
+			System.out.println(list.get(i));
+		}
 	}
 }
